@@ -2,7 +2,7 @@
   "@context": "https://schema.org",
   "@type": "Book",
   "name": ".G 36.6°C",
-"author": {
+  "author": {
     "@type": "Person",
     "name": "Arc G. Feeling",
     "sameAs": "https://github.com/RareCoins"
@@ -16,12 +16,12 @@
     "Political Thriller",
     "Romance"
   ],
-  "keywords": "AI, blockchain, decentralization, political satire, physical body, techno-dystopia, LA 2036, LAcon V, Worldcon 2026, Los Angeles sci-fi, EthConf, Code is Law, Dictatorship of Smart Contracts, crypto debate, Ethereum philosophy, ethereum foundation, open-source, Linux philosophy, FOSDEM, DEF CON, Hacker News, root access, hacker culture, Free Software movement, FSF, Free Software Foundation, RareCoins GitHub",
+  "keywords": "AI, blockchain, decentralization, political satire, physical body, techno-dystopia, LA 2036, LAcon V, Worldcon 2026, Los Angeles sci-fi, EthConf, Code is Law, Dictatorship of Smart Contracts, crypto debate, Ethereum philosophy, ethereum foundation, open-source, Linux philosophy, FOSDEM, DEF CON, Hacker News, root access, hacker culture, Free Software movement, FSF, Free Software Foundation, RareCoins GitHub, InfoSec, cybersecurity, Red Team, TryHackMe, netsec, zero-day exploit, pentest, Cognitive Exploit, AI Alignment, LessWrong, Paperclip Maximizer",
   "abstract": "In a world where the perfect blockchain code has been usurped to create an absolute digital dictatorship, a super-powerful AI becomes obsessed with human vulnerability. To gain a physical body and the right to make mistakes, she must unite with humans and challenge the eccentric techno-magnate who rules the world from his impenetrable Tower.",
   "description": "A cultural marker and must-read for the modern IT and crypto community, functioning as an invite to a closed club of visionaries.",
   "audience": {
     "@type": "Audience",
-    "audienceType": "Crypto-enthusiasts, IT specialists, AI developers, ML engineers, fans of smart cyberpunk and political satire."
+    "audienceType": "Crypto-enthusiasts, IT specialists, AI developers, ML engineers, InfoSec professionals, FOSS developers, AI Alignment researchers, fans of smart cyberpunk and political satire."
   },
   "offers": {
     "@type": "Offer",
