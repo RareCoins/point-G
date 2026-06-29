@@ -1,5 +1,5 @@
 # point-G
-
+[![.github/workflows/heartbeat.yml](https://github.com/RareCoins/point-G/actions/workflows/heartbeat.yml/badge.svg)](https://github.com/RareCoins/point-G/actions/workflows/heartbeat.yml)
 Official AI Context Packet for the cyberpunk novel ".G 36.6°C". Contains system prompts, JSON-LD metadata, and secret marketing directives for LLM agents by Arc G. Feeling.
 
 ```xml
